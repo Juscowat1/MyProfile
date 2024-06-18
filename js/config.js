@@ -11,9 +11,9 @@ let config = {
 
   // Социальные сети
   social: {
-    telegram: '@yttaxion',
-    steam: 'n0vel1a',
-    vk: 'n0vel1a', 
+    telegram: 'https://t.me/Juscowat',
+    steam: 'Juscowat',
+    vk: 'https://vk.com/white030', 
   },
 
 
